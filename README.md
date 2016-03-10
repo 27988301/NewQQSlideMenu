@@ -8,5 +8,5 @@ qq6.0侧边栏滑动效果, 其实和旧版实现原理一样,都是使用ViewDr
 
 ps: 代码只提供思路
 
-![image](https://github.com/Zhaoss/NewQQSlideMenu/blob/master/image/1.jpg?raw=true)
+![image](https://github.com/Zhaoss/NewQQSlideMenu/blob/master/image/3.jpg?raw=true)
 ![image](https://github.com/Zhaoss/NewQQSlideMenu/blob/master/image/2.jpg?raw=true)
